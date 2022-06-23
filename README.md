@@ -11,8 +11,8 @@ ONLINE WALLET PAYMENT APP | Online Wallet Payment Application where you can send
 
 - **Services Offered**
 1. User Login and Signup.
-2. Add money to wallet and deposit to bank.
-3. Transfer money to different users.
+2. Link bank with wallet, Add money to wallet and deposit to bank.
+3. Add Beneficiary to wallet and transfer money to different users.
 4. User can get all transaction history, bill payments.
 
 - **Backend**
